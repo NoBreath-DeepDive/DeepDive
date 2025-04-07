@@ -1,4 +1,8 @@
-## ![image](https://velog.velcdn.com/images/narcoker/post/9c9f1651-931c-49b2-9f57-8a879b432bd4/image.png)
+## <img src="https://velog.velcdn.com/images/narcoker/post/9c9f1651-931c-49b2-9f57-8a879b432bd4/image.png" width="700" />
+
+## 🎈 진행방식
+- 주 단위로 각자 내용을 정리하고 대표로 한명이 발표 형식
+
 ## 🎈 진행방식
 - 주 단위로 각자 내용을 정리하고 대표로 한명이 발표 형식
 - 
@@ -42,4 +46,33 @@ js-deep-dive-study/
 │   └── 3주차.md
 └── README.md
 ```
-
+##  스터디원
+<table>
+  <tr height="160px">
+    <td align="center">
+      <a href="https://github.com/YouVin"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/YouVin"/></a>
+      <br />
+      <a href="https://github.com/YouVin">황유빈</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/onewayay"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/onewayay"/></a>
+      <br />
+      <a href="https://github.com/onewayay">임한길</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mumuyuji"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/mumuyuji"/></a>
+      <br />
+      <a href="https://github.com/mumuyuji">남유지</a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/SiwonYoo"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/SiwonYoo"/></a>
+      <br />
+      <a href="https://github.com/SiwonYoo">유시원</a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/Jinseob92"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/Jinseob92"/></a>
+      <br />
+      <a href="https://github.com/Jinseob92">김진섭</a>
+    </td>
+  </tr>
+</table>
