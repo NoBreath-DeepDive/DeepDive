@@ -50,8 +50,8 @@ js-deep-dive-study/
 ```
 
 ## 💻 스터디 자료
-
-04 변수-오서현: [04.변수](https://www.notion.so/04-1cfb97abf78c80bd8e24cfcec85cb2c0?pvs=4)
+- **4월 10일**: [Chapter 04 - 변수, 오서현](4장/se5ri04.md)
+- 04 변수-오서현: [04.변수](https://www.notion.so/04-1cfb97abf78c80bd8e24cfcec85cb2c0?pvs=4)
 
 ## 👥 스터디원
 
