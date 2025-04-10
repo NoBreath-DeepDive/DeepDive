@@ -93,5 +93,10 @@ js-deep-dive-study/
       <br />
       <a href="https://github.com/se5ri">오서현</a>
     </td>
+         <td align="center">
+      <a href="https://github.com/hhongye"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/hhongye"/></a>
+      <br />
+      <a href="https://github.com/hhongye">홍예린</a>
+    </td>
   </tr>
 </table>
