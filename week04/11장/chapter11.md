@@ -62,7 +62,7 @@ console.log(o); // {a:1}
 
 ## 원시값 메모리 관점
 
-![KakaoTalk_Photo_2025-04-28-21-55-33.jpeg](attachment:a514eaa8-f6b0-4f55-b769-4d9210a28bda:KakaoTalk_Photo_2025-04-28-21-55-33.jpeg)
+![원시값 메모리 관점](../11장/images/원시값_메모리%20관점.jpeg)
 
 여기서 원시의 `값 자체가 차지하고 있던 메모리 주소는 바뀌지 않고`,
 
@@ -131,7 +131,7 @@ copy변수에 원시값을 갖는 score 변수를 할당하면 변수(copy)에�
 
 `score 변수` 와 `copy 변수` 의 값(80)은 다른 메모리 공간에 저장된 별개의 값이다
 
-![KakaoTalk_Photo_2025-04-28-22-49-10.jpeg](attachment:1f24252c-b4b9-4c49-a7b9-3d01170946d9:KakaoTalk_Photo_2025-04-28-22-49-10.jpeg)
+![값에 의한 전달](../11장/images/값에%20의한%20전달.jpeg)
 
 ```jsx
 // 11-08
@@ -185,7 +185,7 @@ var person = {
 
 - 객체를 할당한 `변수가 기억하는 메모리 주소를 통해 공간에 접근하면 참조값에 접근 가능`
 - 참조값은 생성된 객체가 저장된 `메모리 공간의 주소`
-  ![KakaoTalk_Photo_2025-04-29-18-56-18.jpeg](attachment:c1d2815a-4635-490b-8319-7ca3c38844fe:KakaoTalk_Photo_2025-04-29-18-56-18.jpeg)
+  ![변경 가능한 값](../11장/images/변강%20가능한%20값.jpeg)
 
 ```jsx
 //11-13
@@ -284,7 +284,7 @@ var copy = person;
 
 참조에 의한 전달: 원본의 `참조 값이 복사`되어 잔달
 
-![KakaoTalk_Photo_2025-04-29-20-32-33.jpeg](attachment:37c0298f-75e2-4593-8a46-509e7e5c1c4d:KakaoTalk_Photo_2025-04-29-20-32-33.jpeg)
+![참조에 의한 전달](../11장/images/참조에%20의한%20전달.jpeg)
 
 persom을 사본 copy에 할당 하면 원본 person의 참조 값을 복사해서 copy에 저장
 
