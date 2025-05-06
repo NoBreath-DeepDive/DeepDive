@@ -83,13 +83,14 @@ js-deep-dive-study/
 ## 📒 스터디 Notion 자료
 
 - 04 변수-오서현: [04.변수](/week01/4장/se5ri04.md)
-- 05 표현식과 문-임한길: [05.표현식과 문](/week01/5장/chapter05.md)
+- 05 표현식과 문-임한길: [05.표현식과 문](https://www.notion.so/5-1eb91c23507980688898eb12ec7ac6de)
 - 06 데이터 타입-남유지: [06.데이터 타입](https://www.notion.so/6-1d70bd97ed3480f3b80de0ef624fc0d1?pvs=4)
 - 07 연산자-유시원: [07.연산자](https://www.notion.so/7-1d8566396b51801b80a4d510d74c6d17)
 - 08 제어문-홍예린: [08.제어문](/week03/8장/chapter08.md)
 - 09 타입 변환과 단축평가-김진섭: [09.타입 변환과 단축평가](https://www.notion.so/9-1de7f959da5780b6ab5fef958e910dcb)
 - 10 객체 리터럴-황유빈: [10.객체 리터럴](https://beeni.notion.site/10-1dcc20e896788067961fffca6fa80a91?pvs=4)
 - 11 원시 값과 객체의 비교-오서현: [11.원시 값과 객체의 비교-오서현](https://www.notion.so/11-1e3bbaaf3b0a80c09054df3aa1f111a7)
+- 12 함수-임한길,남유지: [12.함수-1](https://www.notion.so/12-1e791c23507980a3a0adf3a11f1961b1)[12.함수-2]
 
 ## ❓ 주차별 질문 모음
 
