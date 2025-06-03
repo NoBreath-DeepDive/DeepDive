@@ -115,6 +115,8 @@ js-deep-dive-study/
 - 13 스코프-유시원: [13.스코프](https://slime-fall-1f7.notion.site/13-1eb566396b5180e68a35eab02ed2cb5c)
 - 14 전역 변수 문제점-홍예린: [14.전역 변수 문제점](https://interesting-speedwell-8f3.notion.site/14-200aec136e548076ba8ccf95eea7b7ba?pvs=4)
 - 15 let, const와 블록 레벨 스코프-김진섭: [15.let, const와 블록 레벨 스코프](https://www.notion.so/15-let-const-1e77f959da578099aebad5881ef4bdab#1e77f959da578007993bd286f6a3a77e)
+- 17 생성자 함수에 의한 객체 생성-오서현: [17.생성자 함수에 의한 객체 생성](https://www.notion.so/17-207bbaaf3b0a8046b855f6006b36c27b?source=copy_link)
+
 ## ❓ 주차별 질문 모음
 
 > 각 주차 발표/학습 중 나온 질문을 기록합니다.  
