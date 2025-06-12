@@ -280,6 +280,7 @@ console.log(me.constructor === Person); // true
 
 - 생성자 함수에 의해 생성된 인스턴스는 프로토타입의 constructor프로퍼티에 의해 생성자 함수와 연결된다.
 - constructor 프로퍼티가 가리키는 생성자 함수는 인스턴스를 생성한 생성자 함수다.
+
   ```jsx
   // object 객체를 생성한 생성자 함수는 Object다.
   const obj = new Object();
