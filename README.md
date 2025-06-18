@@ -21,7 +21,8 @@
 | 6주  | 13장, 14장, 15장 | 2025-05-28 (수) | 스코프, 전역 변수 문제점, 블록 레벨 스코프  |  시원, 예린, 진섭 |   ✅   |
 | 7주  | 16장, 17장 | 2025-06-04 (수) | 프로퍼티 어트리뷰트, 생성자 함수에 의한 객체 생성 |  유빈, 서현 |   ✅   |
 | 8주  | 18장, 19장 | 2025-06-11 (수) | 함수와 일급 객체, 프로토타입                    | 한길, 유지, 시원 |   ✅   |
-| 9주  | 20장, 21장 | 2025-06-18 (수) | strict mode, 빌트인 객체                        | 예린, 진섭 |      |
+| 9주  | 20장, 21장 | 2025-06-18 (수) | strict mode, 빌트인 객체                        | 예린, 진섭 |   ✅   |
+| 9주  | 22장, 23장 | 2025-06-25 (수) | this, 실행 컨텍스트                        | 유빈, 서현 |      |
 
 
 
@@ -97,6 +98,11 @@ js-deep-dive-study/
 │   │    └── chapter20.md
 │   └── 21장/images
 │        └── chapter21.md
+├── week10/
+│   ├── 22장/images
+│   │    └── chapter22.md
+│   └── 23장/images
+│        └── chapter23.md
 └── README.md
 ```
 
@@ -119,7 +125,8 @@ js-deep-dive-study/
 - 17 생성자 함수에 의한 객체 생성-오서현: [17.생성자 함수에 의한 객체 생성](/week07/17장/chapter17.md)
 - 18 함수와 일급 객체-임한길: [18.함수와 일급 객체](/week08/18장/chapter18.md)
 - 19 프로토타입-남유지, 유시원: [19.프로토타입-1](/week08/19장/chapter19-1.md), [19.프로토타입-2](/week08/19장/chapter19-2.md)
-
+- 20 strict mode-홍예린: [20.strict mode](/week09/20장/chapter20.md)
+- 21 빌트인 객체-김진섭: [21.빌트인 객체](/week09/21장/chapter21.md)
 ## 📒 스터디 Notion 자료
 
 - 04 변수-오서현: [04.변수](/week01/4장/se5ri04.md)
@@ -138,7 +145,8 @@ js-deep-dive-study/
 - 17 생성자 함수에 의한 객체 생성-오서현: [17.생성자 함수에 의한 객체 생성](https://www.notion.so/17-207bbaaf3b0a8046b855f6006b36c27b?source=copy_link)
 - 18 함수와 일급 객체-임한길: [18.함수와 일급 객체](https://www.notion.so/18-20791c23507980a182c2fe805866091a?source=copy_link)
 - 19 프로토타입-남유지, 유시원: [19.프로토타입-1](https://www.notion.so/19-1-20e0bd97ed348023a24fc86b874b0632), [19.프로토타입-2](https://slime-fall-1f7.notion.site/19-2-20b566396b51802893ccd834e64dc4b0)
-
+- 20 strict mode-홍예린: [20.strict mode](https://interesting-speedwell-8f3.notion.site/20-strict-mode-214aec136e54804986fbe44a3d3dadab)
+- 21 빌트인 객체-김진섭: [21.빌트인 객체](https://www.notion.so/21-2147f959da5780fc80fce820ac76fa21?source=copy_link)
 
 ## ❓ 주차별 질문 모음
 
