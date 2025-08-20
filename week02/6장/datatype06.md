@@ -122,7 +122,7 @@ abcd123
 var first = '남';
 var last = '유지';
 
-console.log('My name is' + first + last); //  My name is 남유지
+console.log('My name  is' + first + last); //  My name is 남유지
 ```
 
 표현식 삽입 : ${ } ⇒ 템플릿 리터럴 내에서 사용해야한다. 일반 문자열에서 표현식 삽입은 문자열로 취급
