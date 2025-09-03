@@ -26,7 +26,8 @@
 | 11주  | 24장, 25장 | 2025-07-02 (수) | 클로저, 클래스                        | 한길, 시원, 예린 |   ✅   |
 | 12주  | 26장, 27장 | 2025-08-20 (수) | ES6 함수의 추가 기능, 배열          | 유빈, 서현, 한길 |   ✅   |
 | 13주  | 28장, 29장, 30장 | 2025-08-27 (수) | Number, Math, Date          | 진섭, 시원 |   ✅   |
-| 14주  | 31장, 32장 | 2025-09-03 (수) | RegExp, String         | 예린, 유빈 |      |
+| 14주  | 31장, 32장 | 2025-09-03 (수) | RegExp, String         | 예린, 유빈 |   ✅   |
+| 15주  | 33장, 34장, 35장, 36장 | 2025-09-10 (수) | Symbol, 이터러블, 스프레드 문법, 디스트럭처링         | 서현, 한길 |      |
 
 
 ## 📌 모임 장소 및 날짜
@@ -130,6 +131,15 @@ js-deep-dive-study/
 │   │    └── chapter31.md
 │   └── 32장/images
 │        └── chapter32.md
+├── week15/
+│   ├── 33장/images
+│   │    └── chapter33.md
+│   ├── 34장/images
+│   │    └── chapter34.md
+│   ├── 35장/images
+│   │    └── chapter35.md
+│   └── 36장/images
+│        └── chapter36.md
 └── README.md
 ```
 
@@ -163,7 +173,8 @@ js-deep-dive-study/
 - 28 Number-김진섭 : [Number](/week13/28장/chapter28.md)
 - 29 Math-김진섭 : [Math](/week13/29장/chapter29.md)
 - 30 Date-유시원 : [Date](/week13/30장/chapter30.md)
-
+- 31 RegExp-홍예린 : [RegExp](/week14/31장/chapter31.md)
+- 32 String-황유빈 : [String](/week14/32장/chapter32.md)
 
 
 ## 📒 스터디 Notion 자료
@@ -195,6 +206,8 @@ js-deep-dive-study/
 - 28 Number-김진섭 : [Number](https://www.notion.so/28-Number-25b7f959da57808ca170c41e2120c67a)
 - 29 Math-김진섭 : [Math](https://www.notion.so/29-Math-25b7f959da57807eae42ea8c2a842af6)
 - 30 Date-유시원 : [Date](https://slime-fall-1f7.notion.site/30-Date-255566396b51802f8e34f539ed7af6ec)
+- 31 RegExp-홍예린 : [RegExp](https://interesting-speedwell-8f3.notion.site/31-RegExp-260aec136e5480b3a7d7c321cc0b0ecb)
+- 32 String-황유빈 : [String](https://beeni.notion.site/32-String-262c20e8967880e8a382c7ad0a36ce96)
 
 
 
