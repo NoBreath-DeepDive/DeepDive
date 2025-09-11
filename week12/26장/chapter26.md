@@ -715,7 +715,7 @@ function sum(x = 0, y = 0) {
 }
 
 console.log(sum(1)); // 1
-```
+``` 
 
 → Rest 파라미터에는 기본값을 지정할 수 없다.
 
