@@ -32,8 +32,8 @@
 | 17주  | 39장 | 2025-09-24 (수) | DOM         | 예린, 유빈 |   ✅   |
 | 18주  | 39장 | 2025-10-01 (수) | DOM         | 한길, 서현 |  ✅    |
 | 19주  | 40장 | 2025-10-15 (수) | 이벤트         | 유빈, 시원 |   ✅    |
-| 20주  | 41장 42장 | 2025-10-22 (수) | 타이머, 비동기 프로그래밍         | 예린, 진섭 |       |
-
+| 20주  | 41장 42장 | 2025-10-22 (수) | 타이머, 비동기 프로그래밍         | 예린, 진섭 |   ✅    |
+| 21주  | 43장 44장 | 2025-10-29 (수) | Ajax, REST API         | 한길, 서현 |       |
 
 
 
@@ -170,6 +170,11 @@ js-deep-dive-study/
 │   │    └── chapter41.md
 │   └── 42장/images
 │        └── chapter42.md
+├── week21/
+│   ├── 43장/images
+│   │    └── chapter43.md
+│   └── 44장/images
+│        └── chapter44.md
 └── README.md
 ```
 
@@ -214,7 +219,8 @@ js-deep-dive-study/
 - 39 DOM-1, DOM-2 -홍예린, 황유빈 : [DOM-1](/week17/39장/chapter39-1.md), [DOM-2](/week17/39장/chapter39-2.md)
 - 39 DOM-3, DOM-4 -임한길, 오서현 : [DOM-3](/week18/39장/chapter39-3.md), [DOM-4](/week18/39장/chapter39-4.md)
 - 40 Event-1, Event-2 -황유빈, 유시원 : [Event-1](/week19/40장/chapter40-1.md), [Event-2](/week19/40장/chapter40-2.md)
-
+- 41 타이머 -홍예린 : [타이머](/week20/41장/chapter41.md)
+- 42 비동기 프로그래밍 -김진섭 : [비동기 프로그래밍](/week20/42장/chapter42.md)
 
 ## 📒 스터디 Notion 자료
 
@@ -256,6 +262,8 @@ js-deep-dive-study/
 - 39 DOM-1, DOM-2 -홍예린, 황유빈 : [DOM-1](https://interesting-speedwell-8f3.notion.site/39-273aec136e54808b9652facbe98c96d4?source=copy_link), [DOM-2](https://beeni.notion.site/DOM-2-276c20e8967880ef8ec5c5f39d34fd68)
 - 39 DOM-3, DOM-4 -임한길, 오서현 : [DOM-3](https://www.notion.so/39-6-DOM-27791c23507980b29b61c6560d53c5e5), [DOM-4](https://www.notion.so/39-7-27dbbaaf3b0a80bd93bed054f89df28b)
 - 40 Event-1, Event-2 -황유빈, 유시원 : [Event-1](https://beeni.notion.site/1-28bc20e8967880ef90ecc08713fc104e), [Event-2](https://slime-fall-1f7.notion.site/40-2-28b566396b5180939db7ca1d5b40daff)
+- 41 타이머 -홍예린 : [타이머](https://interesting-speedwell-8f3.notion.site/41-293aec136e548017bc35c57f499a8bfc)
+- 42 비동기 프로그래밍 -김진섭 : [비동기 프로그래밍](https://www.notion.so/42-2927f959da5780999ca3fc8b20020178)
 
 ## ❓ 주차별 질문 모음
 
