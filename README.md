@@ -33,8 +33,8 @@
 | 18주  | 39장 | 2025-10-01 (수) | DOM         | 한길, 서현 |  ✅    |
 | 19주  | 40장 | 2025-10-15 (수) | 이벤트         | 유빈, 시원 |   ✅    |
 | 20주  | 41장 42장 | 2025-10-22 (수) | 타이머, 비동기 프로그래밍         | 예린, 진섭 |   ✅    |
-| 21주  | 43장 44장 | 2025-10-29 (수) | Ajax, REST API         | 한길, 서현 |       |
-
+| 21주  | 43장 44장 | 2025-10-29 (수) | Ajax, REST API         | 한길, 서현 |  ✅     |
+| 22주  | 45장 46장 | 2025-11-05 (수) | 프로미스, 제네레이터와 async/await         | 유빈, 시원 |       |
 
 
 
@@ -175,6 +175,11 @@ js-deep-dive-study/
 │   │    └── chapter43.md
 │   └── 44장/images
 │        └── chapter44.md
+├── week22/
+│   ├── 45장/images
+│   │    └── chapter45.md
+│   └── 46장/images
+│        └── chapter46.md
 └── README.md
 ```
 
@@ -221,6 +226,8 @@ js-deep-dive-study/
 - 40 Event-1, Event-2 -황유빈, 유시원 : [Event-1](/week19/40장/chapter40-1.md), [Event-2](/week19/40장/chapter40-2.md)
 - 41 타이머 -홍예린 : [타이머](/week20/41장/chapter41.md)
 - 42 비동기 프로그래밍 -김진섭 : [비동기 프로그래밍](/week20/42장/chapter42.md)
+- 43 Ajax -임한길 : [Ajax](/week21/43장/chapter43.md)
+- 44 REST API -오서현 : [REST API](/week21/44장/chapter44.md)
 
 ## 📒 스터디 Notion 자료
 
@@ -264,6 +271,8 @@ js-deep-dive-study/
 - 40 Event-1, Event-2 -황유빈, 유시원 : [Event-1](https://beeni.notion.site/1-28bc20e8967880ef90ecc08713fc104e), [Event-2](https://slime-fall-1f7.notion.site/40-2-28b566396b5180939db7ca1d5b40daff)
 - 41 타이머 -홍예린 : [타이머](https://interesting-speedwell-8f3.notion.site/41-293aec136e548017bc35c57f499a8bfc)
 - 42 비동기 프로그래밍 -김진섭 : [비동기 프로그래밍](https://www.notion.so/42-2927f959da5780999ca3fc8b20020178)
+- 43 Ajax -임한길 : [Ajax](https://www.notion.so/43-Ajax-29391c2350798094a1d4d583cc560d52)
+- 44 REST API -오서현 : [REST API](https://www.notion.so/REST-API-29abbaaf3b0a80fb8004edbfb6d87468)
 
 ## ❓ 주차별 질문 모음
 
