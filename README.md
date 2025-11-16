@@ -8,7 +8,7 @@
 
 ## 📘 모던 자바스크립트 딥다이브 스터디 일정
 
-> 진행 기간: 2025.04.08 ~
+> 진행 기간: 2025.04.08 ~ 2025.11.12
 
 | 주차 | 진행 항목        | 날짜            | 학습 목표                               |    발표자           | 상태 |
 | ---- | ---------------- | --------------- | ------------------------------------- | ---------------- | ---- |
@@ -35,7 +35,7 @@
 | 20주  | 41장 42장 | 2025-10-22 (수) | 타이머, 비동기 프로그래밍         | 예린, 진섭 |   ✅    |
 | 21주  | 43장 44장 | 2025-10-29 (수) | Ajax, REST API         | 한길, 서현 |  ✅     |
 | 22주  | 45장 46장 | 2025-11-05 (수) | 프로미스, 제네레이터와 async/await         | 유빈, 시원 |    ✅   |
-| 23주  | 47장 48장 49장 | 2025-11-12 (수) | 에러처리, 모듈, Babel와 Webpack          | 예린, 진섭 |       |
+| 23주  | 47장 48장 49장 | 2025-11-12 (수) | 에러처리, 모듈, Babel와 Webpack          | 예린, 진섭 |   ✅    |
 
 
 
@@ -238,6 +238,9 @@ js-deep-dive-study/
 - 44 REST API -오서현 : [REST API](/week21/44장/chapter44.md)
 - 45 프로미스 -황유빈 : [프로미스](/week22/45장/chapter45.md)
 - 46 제너레이터와 async/await -유시원 : [제너레이터와 async/await](/week22/46장/chapter46.md)
+- 47 에러처리 -홍예린 : [에러처리](/week23/47장/chapter47.md)
+- 48 모듈 -홍예린 : [모듈](/week23/48장/chapter48.md)
+- 49 Babel와 Webpack -김진섭 : [Babel와 Webpack](/week23/49장/chapter49.md)
 
 ## 📒 스터디 Notion 자료
 
@@ -285,7 +288,9 @@ js-deep-dive-study/
 - 44 REST API -오서현 : [REST API](https://www.notion.so/REST-API-29abbaaf3b0a80fb8004edbfb6d87468)
 - 45 프로미스 -황유빈 : [프로미스](https://beeni.notion.site/45-29fc20e896788000b57bce309371287b)
 - 46 제너레이터와 async/await -유시원 : [제너레이터와 async/await](https://slime-fall-1f7.notion.site/46-async-await-2a0566396b51809ab52cf1997c59a491)
-
+- 47 에러처리 -홍예린 : [에러처리](https://interesting-speedwell-8f3.notion.site/47-2a2aec136e5480bcb28ac08044a5be43)
+- 48 모듈 -홍예린 : [모듈](https://interesting-speedwell-8f3.notion.site/48-2a4aec136e548014b022f300750f96ed)
+- 49 Babel와 Webpack -김진섭 : [Babel와 Webpack](https://www.notion.so/49-Babel-Webpack-ES6-ES-NEXT-2a47f959da5780009f0fd81588891110)
 ## ❓ 주차별 질문 모음
 
 > 각 주차 발표/학습 중 나온 질문을 기록합니다.  
